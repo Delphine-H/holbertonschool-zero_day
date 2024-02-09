@@ -1,3 +1,2 @@
 #!/bin/bash
-# remplace echo "Best School"
 echo "The School is open!"
